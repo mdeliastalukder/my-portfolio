@@ -74,4 +74,20 @@ footer h2{
 .bolds{
     font-weight: 700;
 }
+.topik{
+    margin-left: 1%;
+}
+.size{
+    font-weight: bold;
+}
+.rong{
+    color: orange;
+}
+.corona{
+    text-align: center;
+    background-color: rgb(1, 1, 31);
+}
+.color{
+    color: white;
+}
 
