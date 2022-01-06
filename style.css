@@ -54,3 +54,24 @@ footer h2{
 .tiko{
     background-color: mistyrose;
 }
+.negative-m{
+    margin-left: -25%;
+}
+.d-girls{
+    background-image: url(images/shapes/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.health{
+    margin-left: 3.5%;
+}
+.care{
+    margin-top: 8%;
+}
+.pare{
+    margin-top: 6%;
+}
+.bolds{
+    font-weight: 700;
+}
+
