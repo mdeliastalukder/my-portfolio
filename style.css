@@ -28,3 +28,29 @@ section{
     padding: 10px 40px;
     border-radius: 5px;
 }
+footer h2{
+    text-align: center;
+}
+.orange-color{
+    color: orange;
+}
+.three-box{
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding-left: 20px;
+    border-radius: 10px;
+}
+.coto-box{
+    width: 50%;
+}
+.piko{
+    background-color: lightsteelblue;
+}
+.niko{
+    background-color: linen;
+}
+.tiko{
+    background-color: mistyrose;
+}
